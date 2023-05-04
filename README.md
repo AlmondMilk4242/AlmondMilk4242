@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @AlmondMilk4242
-- 👀 I’m interested in building projects
-- 🌱 exploration/learning stage
-- 💞️ I’m looking to collaborate with developers
+# Hi there! I'm Shankara 👋
 
-<!---
-AlmondMilk4242/AlmondMilk4242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About me
+
+I'm a tech enthusiast and a startup founder currently working on a data analytics project. I'm passionate about exploring new technologies and staying up-to-date with the latest trends in the industry.
+
+- 🔭 I’m currently working on my data analytics startup
+- 🌱 I’m always eager to learn new technologies and skills
+- 💬 Ask me about data analytics, technology trends, and startups
+- 📫 How to reach me: `shankara.sukumaran@notionuniversegroup.com`
+
+
